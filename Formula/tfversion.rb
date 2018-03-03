@@ -3,7 +3,7 @@ class Tfversion < Formula
     homepage "https://aurelienperrier.com/tfversion"
     url "https://github.com/perriea/tfversion/releases/download/0.1.3/tfversion_darwin_amd64.zip"
     version "0.1.3"
-    sha256 "c42016723caa69a7df313f416b4c85a183230af3216860e210b2077bd67abdad"
+    sha256 "96f1fc39011699b4291d230a332a5a0242757d615a28307323272525d9c3a3c6"
   
     def install
       bin.install "tfversion"
